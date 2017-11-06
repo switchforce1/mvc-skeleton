@@ -1,0 +1,16 @@
+{
+    "name": "switchforce1/mvc-skeleton",
+    "description": "sample of php mvc projet w view, controller.",
+    "authors": [
+        {
+            "name": "switchforce1",
+            "email": "switchforce1@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
